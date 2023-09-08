@@ -1,0 +1,46 @@
+.container {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+h1 {
+  padding-top: 20px;
+  color: rgb(128, 127, 127);
+  margin: 0;
+}
+h2 {
+  font-size: 20px;
+  color: rgb(128, 127, 127);
+  padding-top: 0;
+  margin: 5px;
+}
+p {
+  margin: 10px;
+  font-size: 60px;
+}
+.today-icon {
+  text-align: center;
+  width: 100%;
+  font-size: 80px;
+  padding-bottom: 20px;
+}
+.card {
+  padding: 20px;
+  width: 100%;
+}
+.card-text,
+.card-title {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.forecast-icon {
+  text-align: center;
+  font-size: 40px;
+  width: 100%;
+}
